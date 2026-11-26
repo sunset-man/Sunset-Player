@@ -1,0 +1,5 @@
+cffi==2.1.1
+just_playback==1.0.0
+pathlib==1.0.1
+pycparser==3.12
+tinytag==2.3.2
